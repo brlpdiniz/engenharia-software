@@ -38,63 +38,12 @@
 
 ### Requirements
 - Um mínimo de 3 anos de experiência em engenharia de sistemas e/ou administração de sistemas
-> 
+> Início de experiência (Líder de projetos - CLINIC, 2023 - 2027)
 
 - Domínio de Linux. Isso significa: você sabe por que as coisas funcionam em um sistema Linux, e não apenas como configurá-las.
-> 
+> Uso assíduo desde 2018, necessário +1 ano de uso aprofundado
 
 - Um profundo conhecimento de LDAP, NTP, NFS, DNS, DHCP, SMTP.
-> 
-
-- Experiência em administração de CentOS/RedHat Linux e/ou Ubuntu Linux
-> 
-
-- Experiência técnica comprovada e uma base sólida em sistemas operacionais
-> 
-
-- Experiência com Puppet, Ansible ou outras ferramentas de gerenciamento de configuração
-> 
-
-- Experiência com tecnologias de containers como Docker
-> 
-
-- Escrever scripts em alguma linguagem administrativa (Python, Go, Shell)
-> 
-
-- Fortes habilidades de solução de problemas de desempenho
-> 
-
-- Boa capacidade de comunicação em equipe, com colegas técnicos e não técnicos
-> Adquirido (Suporte - CLINIC, 2021-2023)
-
-### Pluses
-- Capaz de ler e realizar depuração de programas C/C++/Java/Go.
-> Adquirido (Curso e Faculdade - Ciência da Computação, 2020-2022)
-
-- Familiaridade com OpenStack, AWS e/ou Google Cloud
-> Adquirido (Programação - CLINIC, 2023)
-
-- Familiaridade com ajuste e solução de problemas do kernel Linux
-> Adquirido (Uso assíduo desde 2018)
-
-- Graduação em Ciência da Computação ou áreas afins
-> Formação: 01/07/2024
-
-############################################################################################################
-
-############################################################################################################
-
-############################################################################################################
-
-* Experiência em Engenharia de Sistemas/Administração de Sistemas (3 anos):
-    Adquirir experiência prática pode levar tempo, e muitas vezes é adquirida por meio de empregos ou estágios relacionados. Considere começar como estagiário ou assistente para ganhar exposição prática.
-    - Início de experiência (Líder de projetos - CLINIC, 2023 - 2027)
-
-* Domínio de Linux:
-    Isso pode ser desenvolvido por meio de prática constante e aplicação em ambientes reais. O tempo pode variar, mas um período de 6 meses a 1 ano de exposição prática e experimentação pode ser razoável.
-    - Uso assíduo desde 2018, necessário +1 ano de uso aprofundado
- 
-* Conhecimento de LDAP, NTP, NFS, DNS, DHCP, SMTP:
     * LDAP (Lightweight Directory Access Protocol):
         Total estimado: 7 a 14 semanas
 
@@ -113,26 +62,36 @@
     * SMTP (Simple Mail Transfer Protocol):
         Total estimado: 7 a 14 semanas
 
-* Experiência em Administração de CentOS/RedHat Linux e/ou Ubuntu Linux:
-    A administração prática desses sistemas operacionais pode ser adquirida por meio de projetos práticos e exposição em ambientes de produção. Isso pode levar de 6 meses a 1 ano, dependendo da intensidade do envolvimento.
-    - 
+- Experiência em administração de CentOS/RedHat Linux e/ou Ubuntu Linux
+> A administração prática desses sistemas operacionais pode ser adquirida por meio de projetos práticos e exposição em ambientes de produção. Isso pode levar de 6 meses a 1 ano, dependendo da intensidade do envolvimento.
 
-* Experiência Técnica em Sistemas Operacionais:
-Cursos específicos podem oferecer uma base sólida em sistemas operacionais em alguns meses.
-    - 
+- Experiência técnica comprovada e uma base sólida em sistemas operacionais
+> Cursos específicos podem oferecer uma base sólida em sistemas operacionais em alguns meses.
 
-* Experiência com Puppet, Ansible ou outras ferramentas de gerenciamento de configuração:
-    Cursos específicos e projetos práticos podem ajudar a adquirir habilidades básicas em alguns meses.
-    - 
+- Experiência com Puppet, Ansible ou outras ferramentas de gerenciamento de configuração
+> Cursos específicos e projetos práticos podem ajudar a adquirir habilidades básicas em alguns meses.
 
-* Experiência com tecnologias de containers como Docker:
-    Projetos práticos e cursos podem ajudar a adquirir conhecimento em alguns meses.
-    - 
+- Experiência com tecnologias de containers como Docker
+> Projetos práticos e cursos podem ajudar a adquirir conhecimento em alguns meses.
 
-* Escrever scripts em alguma linguagem administrativa (Python, Go, Shell):
-    Depende da linguagem escolhida. Para scripts simples, você pode começar a criar scripts básicos em algumas semanas. Um entendimento mais profundo pode levar alguns meses.
-    - 
+- Escrever scripts em alguma linguagem administrativa (Python, Go, Shell)
+> Depende da linguagem escolhida. Para scripts simples, você pode começar a criar scripts básicos em algumas semanas. Um entendimento mais profundo pode levar alguns meses.
 
-* Habilidades de Solução de Problemas de Desempenho:
-    Isso geralmente é adquirido com a experiência prática ao longo do tempo. Pode levar de 6 meses a 1 ano para desenvolver habilidades sólidas de solução de problemas de desempenho.
-    - 
+- Fortes habilidades de solução de problemas de desempenho
+> Isso geralmente é adquirido com a experiência prática ao longo do tempo. Pode levar de 6 meses a 1 ano para desenvolver habilidades sólidas de solução de problemas de desempenho.
+
+- Boa capacidade de comunicação em equipe, com colegas técnicos e não técnicos
+> Adquirido (Suporte - CLINIC, 2021-2023)
+
+### Pluses
+- Capaz de ler e realizar depuração de programas C/C++/Java/Go.
+> Adquirido (Curso e Faculdade - Ciência da Computação, 2020-2022)
+
+- Familiaridade com OpenStack, AWS e/ou Google Cloud
+> Adquirido (Programação - CLINIC, 2023)
+
+- Familiaridade com ajuste e solução de problemas do kernel Linux
+> Adquirido (Uso assíduo desde 2018)
+
+- Graduação em Ciência da Computação ou áreas afins
+> Formação: 01/07/2024
