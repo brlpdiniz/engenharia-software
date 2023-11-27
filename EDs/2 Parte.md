@@ -63,7 +63,7 @@
         Total estimado: 7 a 14 semanas
 
 - Experiência em administração de CentOS/RedHat Linux e/ou Ubuntu Linux
-    > Total estimado: 6 meses a 1 ano, dependendo da intensidade do envolvimento.
+    > Total estimado: 6 meses a 1 ano
 
 - Experiência técnica comprovada e uma base sólida em sistemas operacionais
     > Total estimado: 1 ano
