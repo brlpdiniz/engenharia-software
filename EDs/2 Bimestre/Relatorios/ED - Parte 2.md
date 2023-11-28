@@ -93,13 +93,6 @@
 - Graduação em Ciência da Computação ou áreas afins
     > Formação: 01/07/2024
 
-
-
-
 ### Implícito
 - Terminar a faculdade
 - Curso p/ competências
-- 
-- 
-- 
-- 
