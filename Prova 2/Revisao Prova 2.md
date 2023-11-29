@@ -138,7 +138,14 @@
         - Realizadas pelo desenvolvedor do código
         - Tipos:
             - Teste unitário
+                - Assegurar que cada módulo funciona apropriadamente
+                - Realizado individualmente após a implementação do módulo
             - Teste de integração
+                - Montagem do software e verificação das interfaces
+            - Teste de aceitação
+                - Assegurar que o software satisfaz os requisitos do usuário
+            - Teste de sistema
+                - Integração do software com outros sistemas
         - Aplicar casos de teste.
         - Construção para reutilização
         - Construção com reutilização
@@ -153,8 +160,8 @@
 ### Teste de Software
     - v & v (VERIFICAR se está dando a resposta correta (identificar defeitos e possíveis problemas de um componente pronto) e VALIDAR se está trabalhando com os requisitos de forma correta - regra de negócio)
     - Revisões de Software
-        - Técnicas estáticas que identificam a correspondência entre o programa e sua especificação ou necessidades do cliente.
-        - Não demonstram se o software é operacionalmente útil ou se suas características não-funcionais atendem os requisitos desejados.
+        - Peer Review (revisões por partes) - Revisões de um elemento ou produto de software, realizada por pares, a qual tem como objetivo verificar se ele satisfaz sua especificação e conformidade com os padrões
+        - O termo "walkthrough" em testes de software refere-se a uma revisão passo a passo de documentos ou códigos entre membros da equipe, com o objetivo de identificar possíveis problemas ou melhorias. 
 
     - Testes de Software
         - Técnicas dinâmicas que podem ser aplicadas para verificação e validação, trabalhando sobre uma versão executável do produto de software.
@@ -261,10 +268,43 @@
             - Gerenciamento de fluxo de trabalho, incluindo certificação 
 
 ### Gerenciamento de Projeto de TI (PMBOK)
+    - Integração, Escopo, Custo, Prazo/Tempo e Qualidade
+    - WBS: Ferramenta utilizada para facilitar o gerenciamento de projetos por meio da decomposição hierárquica do escopo do projeto em partes menores. 
     - Gerenciamento de escopo
         * O que fazer no projeto, requisitos
         * Descrever as atividades para realizar os requisitos (atividades)
+
     - Gerenciamento de tempo
+        - Processos necessários para realizar o término do projeto no prazo
         * Pegar as atividades, colocar uma em baixo da outra e dar uma sequência, o que torna um cronograma (milestones "medições" - avalia tudo, quanto tempo levou, quanto gastou, gestão do projeto de forma geral)
+            - Milestone: Marcos do projeto, que funcionam como pontos de sinalização para o começo ou conclusão de uma nova fase das atividades. 
+        - Metódos para estimativa de tempo:
+            - Function Points Analisys
+            - Use Case Points
+            - PERT (esquemas probabilísticos)
+            - CPM
+        Gerenciamento de tempo
+            - Caminho Crítico
+            - Data Mais Cedo
+            - Data Mais Tarde
+
     - Gerenciamento de risco
-        * GUT, Impacto de planilha de calor
+        * GUT (Gravidade-Urgência-Tendência), Impacto de planilha de calor
+        - Aceitar o risco
+        - Evitar o risco
+        - Transferir o risco
+        - Reduzir o risco – mitigate
+        - Monitorar e preparar Planos de Contingência para o risco
+
+    - Funções da Gestão de Projetos:
+        - Definição do projeto
+            - Objetivos, metas, limitações, mecanismos de controle
+        
+        - Planejamento do projeto
+            - Esforço, cronograma, riscos, entre outros
+        
+        - Controle do projeto
+            - Medição, comunicação, intervenção corretiva
+
+    - Ciclo de Vida de um Projeto
+        - Iniciação > Planejamento > Controle > Execução > Encerramento
